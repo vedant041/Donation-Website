@@ -14,15 +14,15 @@ const commonData = {
 };
 
 const images = [
-  "/Donation1.jpeg",
-  "/Donation2.jpeg",
-  "/Donation3.jpeg",
-  "/Donation4.jpeg",
-  "/Donation5.jpeg",
-  "/Donation6.jpeg",
-  "/Donation7.jpeg",
-  "/Donation8.jpeg",
-  "/Donation9.jpeg",
+  "public/Donation1.jpeg",
+  "public/Donation2.jpeg",
+  "public/Donation3.jpeg",
+  "public/Donation4.jpeg",
+  "public/Donation5.jpeg",
+  "public/Donation6.jpeg",
+  "public/Donation7.jpeg",
+  "public/Donation8.jpeg",
+  "public/Donation9.jpeg",
 ];
 
 export default function BlogPage() {
