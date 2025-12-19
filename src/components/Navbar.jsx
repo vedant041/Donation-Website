@@ -12,7 +12,7 @@ export default function Navbar() {
       <div className="max-w-[1200px] mx-auto px-6 h-[72px] flex items-center">
         <div className="flex items-center gap-2 font-semibold flex-1">
           <span className="text-2xl">🫶</span>
-          <span className="text-[16px]">Charitix</span>
+          <span className="text-[16px]">Charitifx</span>
         </div>
         
         <div className="hidden md:flex items-center gap-8">
