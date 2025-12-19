@@ -39,10 +39,7 @@ export default function LoginCard() {
       </p>
 
       <button className="w-full mt-4 py-2 border rounded-md flex items-center justify-center gap-2 text-sm">
-        <img
-          src="public/G1.jpg"
-          alt="Google"
-          className="w-4 h-4"/>
+        <img src="G1.jpg" alt="Google"  className="w-4 h-4"/>
         Login with Google
       </button>
     </div>

@@ -7,22 +7,22 @@ import PagesCard from "../components/PagesCard";
 export default function PagesPage() {
   const relatedEvents = [
     {
-      img: "public/Donation1.png",
+      img: "Donation1.png",
       date: "November 28, 2023",
       title: "How Kids Make Sense of Life Experiences.",
     },
     {
-      img: "public/Donation2.png",
+      img: "Donation2.png",
       date: "November 26, 2023",
       title: "Why Education Is a Lifelong Gift.",
     },
     {
-      img: "public/Donation3.png",
+      img: "Donation3.png",
       date: "November 24, 2023",
       title: "Clean Water Can Change Everything.",
     },
     {
-      img: "public/Donation4.jpeg",
+      img: "Donation4.jpeg",
       date: "November 22, 2023",
       title: "Fighting Hunger with Community Support.",
     },
