@@ -8,7 +8,7 @@ export default function BlogPage() {
   return (
     <>
       <Navbar />
-      <Hero title="Login" />
+      <Hero title="Login" breadcrumb={["Home", "Login"]} />
       <div className="min-h-screen bg-white flex items-center justify-center py-12">
        <LoginCard />
       </div>

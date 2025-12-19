@@ -8,7 +8,7 @@ export default function ForgotPasswordPage() {
   return (
     <>
       <Navbar />
-      <Hero title="Forgot Password" />
+      <Hero title="Forgot Password" breadcrumb={["Home", "Forgot Password"]} />
       <div className="min-h-screen bg-white flex items-center justify-center py-12">
         <ForgotPasswordCard />
       </div>

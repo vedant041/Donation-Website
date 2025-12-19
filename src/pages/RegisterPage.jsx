@@ -8,7 +8,7 @@ export default function RegisterPage() {
   return (
     <>
       <Navbar />
-      <Hero title="Register" />
+      <Hero title="Register" breadcrumb={["Home", "Register"]} />
       <div className="min-h-screen bg-white flex items-center justify-center py-12">
         <RegisterCard />
       </div>
