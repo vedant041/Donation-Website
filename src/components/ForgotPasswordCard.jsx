@@ -5,7 +5,7 @@ export default function ForgotPasswordCard() {
     <div className="w-full max-w-[420px] bg-white border border-gray-300 rounded-xl shadow-md p-8">
       <div className="flex flex-col items-center mb-6">
         <div className="text-3xl mb-1">🫶</div>
-        <h2 className="text-xl font-semibold">Charitix</h2>
+        <h2 className="text-xl font-semibold">Charitifx</h2>
       </div>
 
       <p className="text-sm text-gray-600 text-center mb-6">

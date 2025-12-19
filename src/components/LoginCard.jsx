@@ -5,7 +5,7 @@ export default function LoginCard() {
       
       <div className="flex flex-col items-center mb-6">
         <div className="text-3xl mb-1">🫶</div>
-        <h2 className="text-xl font-semibold">Charitix</h2>
+        <h2 className="text-xl font-semibold">Charitifx</h2>
       </div>
 
       <div className="mb-4">
