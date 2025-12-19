@@ -74,7 +74,7 @@ function Footer() {
             <h4 className="text-[1rem] font-semibold mb-4">Projects</h4>
 
             <Link to="/blog" className="flex gap-3 mb-4">
-              <img src="public/Donation10.jpeg" className="w-[88px] h-[70px] object-cover rounded-lg" />
+              <img src="Donation10.jpeg" className="w-[88px] h-[70px] object-cover rounded-lg" />
               <div>
                 <span className="text-yellow-400 text-sm">12 Oct 2023</span>
                 <p className="text-sm hover:text-white">
@@ -84,7 +84,7 @@ function Footer() {
             </Link>
 
             <Link to="/blog" className="flex gap-3">
-              <img src="public/Donation11.jpeg" className="w-[88px] h-[70px] object-cover rounded-lg" />
+              <img src="Donation11.jpeg" className="w-[88px] h-[70px] object-cover rounded-lg" />
               <div>
                 <span className="text-yellow-400 text-sm">20 Oct 2023</span>
                 <p className="text-sm hover:text-white">
