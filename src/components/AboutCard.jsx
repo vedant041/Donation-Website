@@ -9,9 +9,9 @@ export default function AboutCard() {
   ];
 
   const blogImages = [
-    "public/Donation1.jpeg",
-    "public/Donation2.jpeg",
-    "public/Donation3.jpeg",
+    "/Donation1.png",
+    "/Donation2.png",
+    "/Donation3.png",
   ];
 
   const blogData = {
@@ -91,17 +91,17 @@ export default function AboutCard() {
         <div className="relative flex justify-center lg:justify-end">
           <div className="relative">
             <img
-              src="public/Donation2.jpeg"
+              src="/Donation2.png"
               alt="children"
               className="rounded-[26px] w-[340px] h-[420px] object-cover" />
 
             <img
-              src="public/Donation1.jpeg"
+              src="/Donation1.png"
               alt="child"
               className="absolute -top-10 -left-16 w-[120px] h-[120px] rounded-xl border-4 border-white object-cover"/>
 
             <img
-              src="public/Donation3.jpeg"
+              src="/Donation3.png"
               alt="group"
               className="absolute -bottom-12 -left-8 w-[160px] h-[110px] rounded-xl border-4 border-white object-cover" />
 
@@ -137,7 +137,7 @@ export default function AboutCard() {
 
         <div className="flex items-center gap-4">
         <img
-            src="public/Donation6.jpeg"
+            src="/Donation6.jpeg"
             alt="Robart Jonson"
             className="w-12 h-12 rounded-full object-cover"
         />

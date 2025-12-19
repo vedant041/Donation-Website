@@ -1,11 +1,11 @@
 function GalleryStrip() {
   const images = [
-    "public/Donation10.jpeg",
-    "public/Donation11.jpeg",
-    "public/Donation12.jpeg",
-    "public/Donation13.jpeg",
-    "public/Donation14.jpeg",
-    "public/Donation15.jpeg",
+    "/Donation10.jpeg",
+    "/Donation11.jpeg",
+    "/Donation12.jpeg",
+    "/Donation13.jpeg",
+    "/Donation14.jpeg",
+    "/Donation15.jpeg",
   ];
 
   return (

@@ -19,7 +19,7 @@ const images = [
   "public/Donation5.jpeg",
   "public/Donation8.jpeg",
   "public/Donation9.jpeg",
-  "public/Donation2.jpeg",
+  "public/Donation2.png",
   "public/Donation6.jpeg",
 ];
 
